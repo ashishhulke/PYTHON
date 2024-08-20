@@ -2,5 +2,5 @@
 
 a = int(input("Enter a number: "))
 b = int(input("Enter a number: "))
-Remender = a % b
-print(Remender)
+Remainder = a % b
+print(Remainder)
